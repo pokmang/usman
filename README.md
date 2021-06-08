@@ -4,7 +4,7 @@
 <p align="center">
 <a href="mailto:usman.s25429@gmail.com"><img src="https://img.shields.io/badge/-usman.s25429@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mang.36"><img src="https://img.shields.io/badge/-@mang.36-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/pokmang19/"><img src="https://img.shields.io/badge/-@pokmang19/-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/pokmang19/"><img src="https://img.shields.io/badge/-@Abu bashar-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UChyCo6jsJ3IlhPyo1jvpRAA"><img src="https://img.shields.io/badge/-@USMAN SULONG.-BD081C?style=flat&logo=Youtube&logoColor=white"/></a>
 </p>
 
